@@ -1,4 +1,4 @@
-# <My Very First>
+# My Very First Project
 
 ## Description
 - My biggest motivation for this project has been my desire to take the first step in becoming a legitimate web developer.
