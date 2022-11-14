@@ -31,5 +31,8 @@ MIT License
 ## How to Contribute
 
 [Contributor Covenant](https://www.contributor-covenant.org/)
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> f07e9318f8045c7a09fc2f47c1c51e201ecdd0a2
